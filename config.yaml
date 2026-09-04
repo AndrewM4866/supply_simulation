@@ -1,0 +1,13 @@
+#-----------------------------
+#config for general process
+#-----------------------------
+
+#General inputs
+machine_proc_a:
+  name: "General"
+  cycles: 100
+  error: 0.05
+  max_deviation: 25
+  cycle_time: 0.5
+  target: 50
+  
